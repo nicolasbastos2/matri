@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "landscape",
   "scope": "/index.html",
-  "start_url": "/index.html"
+  "start_url": "/index.html",
   "lang":"es-es",
   "icons": [
     {
