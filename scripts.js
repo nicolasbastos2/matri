@@ -25,6 +25,7 @@ let deferredPrompt;
     });
 });
 
+
 (function ($) {
 
     "use strict";
